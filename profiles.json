@@ -1,0 +1,59 @@
+{
+	"profiles": [{
+		"profile_names": "tominwedsrini,riniwedstomin,twedsr,rwedst,t&r,tnr,tominnrini,rinitomin,rinintomin,tominrini",
+		"titile": "Tomin Weds Rini",
+		"name": "TominWedsRini",
+		"profile_image": "https://raw.githubusercontent.com/tominbazhakathu/datarepotomockapi/main/ProfileImage.JPG",
+		"description": "We are happy to annocuce that we are getting married on 2022 Dec 31st. This page will give you all the information you need including location of chruch, house and reception hall.",
+		"links": [{
+				"id": "1",
+				"title": "Bethrothal",
+				"description": "11:30 am on 26 Dec 2022 at St.Sebastian's Forane Church Thodupuzha",
+				"content": "https://goo.gl/maps/RdH9ACuEaNBffiYh7",
+				"type": "location"
+			},
+			{
+				"id": "2",
+				"title": "Bethrothal Reception",
+				"description": "12:00 pm on 26 Dec 2022 at Parish Hall of St.Sebastian's Forane Church Thodupuzha",
+				"content": "https://goo.gl/maps/beUVm5d6VviPngzt5",
+				"type": "location"
+			},
+			{
+				"id": "3",
+				"title": "Maduramvepp",
+				"description": "06:30 pm on 29 Dec 2022 at Azhakathu House, Arakulam",
+				"content": "https://goo.gl/maps/r6PZTAT5pc1h8RW69",
+				"type": "location"
+			},
+			{
+				"id": "4",
+				"title": "Wedding",
+				"description": "02:30 pm on 31 Dec 2022 at St.George's Forane Church Moolamattom",
+				"content": "https://goo.gl/maps/ZbbNGZ5LqTA9byQy5",
+				"type": "location"
+			},
+			{
+				"id": "5",
+				"title": "Wedding Reception",
+				"description": "06:30 pm to 10 pm on 31 Dec 2022 at Madaparambil Wedding Hall Thodupuzha",
+				"content": "https://goo.gl/maps/wMU99dXCUfvsxEGX8",
+				"type": "location"
+			},
+			{
+				"id": "7",
+				"title": "Tomin B Azhakathu",
+				"description": "Instagram Link",
+				"content": "https://www.instagram.com/tominbazhakathu/",
+				"type": "url"
+			},
+			{
+				"id": "8",
+				"title": "Rini Vincent",
+				"description": "Instagram Link",
+				"content": "https://www.instagram.com/rinz.vincent",
+				"type": "url"
+			}
+		]
+	}]
+}
