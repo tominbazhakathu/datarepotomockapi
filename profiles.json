@@ -21,6 +21,13 @@
 				"type": "location"
 			},
 			{
+				"id": "10",
+				"title": "Bethrothal Live",
+				"description": "Live Video of Bethrothal From 11:30 am on 26 Dec 2022",
+				"content": "https://youtu.be/fEHcj1X0sVA",
+				"type": "url"
+			},
+			{
 				"id": "3",
 				"title": "Tomin's Maduramvepp",
 				"description": "06:30 pm on 29 Dec 2022 at Azhakathu House, Arakulam",
