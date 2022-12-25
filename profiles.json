@@ -5,7 +5,7 @@
 		"name": "TominWedsRini",
 		"qr_image": "https://raw.githubusercontent.com/tominbazhakathu/datarepotomockapi/main/tominwedsrini.png",
 		"profile_image": "https://raw.githubusercontent.com/tominbazhakathu/datarepotomockapi/main/profile_tominwedsrini.jpeg",
-		"description": "We are happy to annocuce that we are getting married on 2022 Dec 31st. This page will give you all the information you need including location of chruch, house and reception hall.",
+		"description": "We are happy to announce that we are getting married on 2022 Dec 31st. This page will give you all the information you need including location of chruch, house and reception hall.",
 		"links": [{
 				"id": "1",
 				"title": "Bethrothal",
@@ -22,9 +22,16 @@
 			},
 			{
 				"id": "3",
-				"title": "Maduramvepp",
+				"title": "Tomin's Maduramvepp",
 				"description": "06:30 pm on 29 Dec 2022 at Azhakathu House, Arakulam",
 				"content": "https://goo.gl/maps/r6PZTAT5pc1h8RW69",
+				"type": "location"
+			},
+			{
+				"id": "9",
+				"title": "Rini's Maduramvepp",
+				"description": "06:30 pm on 29 Dec 2022 at Kandathil House, Chittoor, Thodupuzha",
+				"content": "https://goo.gl/maps/nLTt5ngMT3ErFZm49",
 				"type": "location"
 			},
 			{
