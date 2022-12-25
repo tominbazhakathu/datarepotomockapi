@@ -6,7 +6,23 @@
 		"qr_image": "https://raw.githubusercontent.com/tominbazhakathu/datarepotomockapi/main/tominwedsrini.png",
 		"profile_image": "https://raw.githubusercontent.com/tominbazhakathu/datarepotomockapi/main/profile_tominwedsrini.jpeg",
 		"description": "We are happy to announce that we are getting married on 2022 Dec 31st. This page will give you all the information you need including location of chruch, house and reception hall.",
-		"links": [{
+		"links": [
+			,
+			{
+				"id": "11",
+				"title": "Azhakathu House",
+				"description": "Tomin B Azhakathu <br>Azhakathu House, Arakulam, 685591",
+				"content": "https://goo.gl/maps/r6PZTAT5pc1h8RW69",
+				"type": "location"
+			},
+			{
+				"id": "12",
+				"title": "Kandathil House",
+				"description": "Rini Vincent <br>Kandathil House, Chittoor, Thodupuzha, 685608",
+				"content": "https://goo.gl/maps/nLTt5ngMT3ErFZm49",
+				"type": "location"
+			},
+			{
 				"id": "1",
 				"title": "Bethrothal",
 				"description": "11:30 am on 26 Dec 2022 at St.Sebastian's Forane Church Thodupuzha",
