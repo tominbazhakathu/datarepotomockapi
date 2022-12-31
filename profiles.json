@@ -71,6 +71,13 @@
 				"type": "location"
 			},
 			{
+				"id": "11",
+				"title": "Wedding Live",
+				"description": "Live Video of Wedding From 2:30 pm on 31st Dec 2022",
+				"content": "https://youtu.be/6jait5xxE0k",
+				"type": "url"
+			},
+			{
 				"id": "7",
 				"title": "Tomin B Azhakathu",
 				"description": "Instagram Link",
